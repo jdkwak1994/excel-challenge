@@ -1,4 +1,4 @@
-# excel-challenge
+# Excel Challenge
 excel-challenge week 1 homework, done by JD Kwak.
 
 ## Background
